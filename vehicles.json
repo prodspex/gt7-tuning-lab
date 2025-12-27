@@ -1,0 +1,1905 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-12-27 04:00:15 UTC",
+    "total_manufacturers": 19,
+    "total_vehicles": 43,
+    "source": "GT7 Community Databases + Fallback Data"
+  },
+  "vehicles": {
+    "Nissan": {
+      "GT-R NISMO GT3 '13": {
+        "drive": "FR",
+        "baseAero": [
+          200,
+          500
+        ],
+        "heightRange": [
+          55,
+          100
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 600,
+        "baseWeight": 1300,
+        "baseTorque": 510,
+        "gearRatios": [
+          3.827,
+          2.36,
+          1.685,
+          1.312,
+          1.097,
+          0.88
+        ],
+        "finalGear": 3.7
+      },
+      "GT-R Premium '17": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          100,
+          180
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 565,
+        "baseWeight": 1740,
+        "baseTorque": 480,
+        "gearRatios": [
+          4.056,
+          2.301,
+          1.595,
+          1.248,
+          1.001,
+          0.796
+        ],
+        "finalGear": 3.7
+      },
+      "Skyline GT-R V-Spec II (R34) '00": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          90,
+          160
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 280,
+        "baseWeight": 1560,
+        "baseTorque": 289,
+        "gearRatios": [
+          3.827,
+          2.36,
+          1.685,
+          1.312,
+          1.0,
+          0.794
+        ],
+        "finalGear": 4.111
+      }
+    },
+    "Porsche": {
+      "911 RSR '17": {
+        "drive": "MR",
+        "baseAero": [
+          300,
+          700
+        ],
+        "heightRange": [
+          50,
+          95
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 510,
+        "baseWeight": 1245,
+        "baseTorque": 434,
+        "gearRatios": [
+          3.15,
+          2.105,
+          1.619,
+          1.32,
+          1.13,
+          0.971
+        ],
+        "finalGear": 4.0
+      },
+      "911 GT3 RS '22": {
+        "drive": "RR",
+        "baseAero": [
+          150,
+          400
+        ],
+        "heightRange": [
+          60,
+          120
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 525,
+        "baseWeight": 1450,
+        "baseTorque": 346,
+        "gearRatios": [
+          3.461,
+          2.105,
+          1.565,
+          1.229,
+          1.027,
+          0.884,
+          0.774
+        ],
+        "finalGear": 3.44
+      },
+      "911 Carrera RS (964) '92": {
+        "drive": "RR",
+        "baseAero": [
+          0,
+          80
+        ],
+        "heightRange": [
+          80,
+          140
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 260,
+        "baseWeight": 1230,
+        "baseTorque": 229,
+        "gearRatios": [
+          3.154,
+          1.789,
+          1.269,
+          0.967,
+          0.756
+        ],
+        "finalGear": 3.875
+      }
+    },
+    "Toyota": {
+      "GR Corolla '22": {
+        "drive": "4WD",
+        "baseAero": [
+          50,
+          200
+        ],
+        "heightRange": [
+          85,
+          140
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 300,
+        "baseWeight": 1475,
+        "baseTorque": 273,
+        "gearRatios": [
+          3.538,
+          2.06,
+          1.404,
+          1.029,
+          0.82,
+          0.672
+        ],
+        "finalGear": 4.3
+      },
+      "Supra RZ '97": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          90,
+          160
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 330,
+        "baseWeight": 1520,
+        "baseTorque": 325,
+        "gearRatios": [
+          3.827,
+          2.36,
+          1.685,
+          1.312,
+          1.0,
+          0.793
+        ],
+        "finalGear": 3.77
+      },
+      "GR Supra '20": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          200
+        ],
+        "heightRange": [
+          85,
+          145
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 335,
+        "baseWeight": 1540,
+        "baseTorque": 369,
+        "gearRatios": [
+          5.0,
+          3.2,
+          2.143,
+          1.72,
+          1.384,
+          1.158,
+          0.971,
+          0.839
+        ],
+        "finalGear": 3.7
+      }
+    },
+    "Mazda": {
+      "RX-7 Spirit R Type A (FD) '02": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          180
+        ],
+        "heightRange": [
+          80,
+          140
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 280,
+        "baseWeight": 1280,
+        "baseTorque": 231,
+        "gearRatios": [
+          3.483,
+          2.015,
+          1.391,
+          1.031,
+          0.815,
+          0.719
+        ],
+        "finalGear": 4.1
+      },
+      "RX-Vision GT3 Concept": {
+        "drive": "FR",
+        "baseAero": [
+          250,
+          650
+        ],
+        "heightRange": [
+          50,
+          95
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 562,
+        "baseWeight": 1250,
+        "baseTorque": 478,
+        "gearRatios": [
+          2.95,
+          2.087,
+          1.608,
+          1.296,
+          1.091,
+          0.943
+        ],
+        "finalGear": 4.3
+      },
+      "Roadster S (ND) '15": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          50
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 131,
+        "baseWeight": 1010,
+        "baseTorque": 111,
+        "gearRatios": [
+          3.815,
+          2.26,
+          1.64,
+          1.187,
+          1.0,
+          0.814
+        ],
+        "finalGear": 4.3
+      }
+    },
+    "Honda": {
+      "NSX Type R '92": {
+        "drive": "MR",
+        "baseAero": [
+          0,
+          120
+        ],
+        "heightRange": [
+          70,
+          130
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 280,
+        "baseWeight": 1230,
+        "baseTorque": 210,
+        "gearRatios": [
+          3.071,
+          1.956,
+          1.428,
+          1.125,
+          0.914,
+          0.717
+        ],
+        "finalGear": 4.06
+      },
+      "Civic Type R '20": {
+        "drive": "FF",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 320,
+        "baseWeight": 1390,
+        "baseTorque": 295,
+        "gearRatios": [
+          3.267,
+          2.13,
+          1.517,
+          1.147,
+          0.921,
+          0.738
+        ],
+        "finalGear": 4.35
+      },
+      "S2000 '99": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          80
+        ],
+        "heightRange": [
+          85,
+          145
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 250,
+        "baseWeight": 1240,
+        "baseTorque": 162,
+        "gearRatios": [
+          3.133,
+          2.045,
+          1.481,
+          1.161,
+          0.97,
+          0.811
+        ],
+        "finalGear": 4.1
+      }
+    },
+    "Ferrari": {
+      "458 Italia '09": {
+        "drive": "MR",
+        "baseAero": [
+          100,
+          300
+        ],
+        "heightRange": [
+          60,
+          110
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 570,
+        "baseWeight": 1485,
+        "baseTorque": 398,
+        "gearRatios": [
+          3.077,
+          2.105,
+          1.565,
+          1.229,
+          1.0,
+          0.839,
+          0.667
+        ],
+        "finalGear": 4.44
+      },
+      "F40 '92": {
+        "drive": "MR",
+        "baseAero": [
+          0,
+          250
+        ],
+        "heightRange": [
+          70,
+          120
+        ],
+        "springRange": [
+          1.5,
+          13.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 478,
+        "baseWeight": 1254,
+        "baseTorque": 425,
+        "gearRatios": [
+          2.769,
+          1.92,
+          1.428,
+          1.129,
+          0.918
+        ],
+        "finalGear": 3.09
+      },
+      "Enzo Ferrari '02": {
+        "drive": "MR",
+        "baseAero": [
+          120,
+          380
+        ],
+        "heightRange": [
+          55,
+          105
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 660,
+        "baseWeight": 1365,
+        "baseTorque": 485,
+        "gearRatios": [
+          2.769,
+          1.947,
+          1.522,
+          1.225,
+          1.029,
+          0.886
+        ],
+        "finalGear": 4.44
+      }
+    },
+    "Lamborghini": {
+      "Huracán LP 610-4 '15": {
+        "drive": "4WD",
+        "baseAero": [
+          120,
+          350
+        ],
+        "heightRange": [
+          65,
+          115
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 610,
+        "baseWeight": 1422,
+        "baseTorque": 413,
+        "gearRatios": [
+          3.091,
+          2.105,
+          1.565,
+          1.229,
+          1.027,
+          0.884,
+          0.742
+        ],
+        "finalGear": 3.91
+      },
+      "Countach LP400 '74": {
+        "drive": "MR",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          75,
+          130
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 375,
+        "baseWeight": 1065,
+        "baseTorque": 268,
+        "gearRatios": [
+          2.538,
+          1.652,
+          1.222,
+          0.969,
+          0.815
+        ],
+        "finalGear": 4.09
+      },
+      "Aventador LP 750-4 Superveloce '15": {
+        "drive": "4WD",
+        "baseAero": [
+          150,
+          450
+        ],
+        "heightRange": [
+          60,
+          110
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 750,
+        "baseWeight": 1525,
+        "baseTorque": 509,
+        "gearRatios": [
+          3.091,
+          2.105,
+          1.565,
+          1.229,
+          1.027,
+          0.884,
+          0.742
+        ],
+        "finalGear": 3.91
+      }
+    },
+    "BMW": {
+      "M4 Coupé '14": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          180
+        ],
+        "heightRange": [
+          85,
+          140
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 431,
+        "baseWeight": 1585,
+        "baseTorque": 406,
+        "gearRatios": [
+          4.056,
+          2.396,
+          1.641,
+          1.213,
+          1.0,
+          0.846,
+          0.672
+        ],
+        "finalGear": 3.15
+      },
+      "M3 Sport Evolution '89": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          120
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 238,
+        "baseWeight": 1200,
+        "baseTorque": 177,
+        "gearRatios": [
+          3.72,
+          2.4,
+          1.77,
+          1.26,
+          1.0
+        ],
+        "finalGear": 4.45
+      },
+      "Z4 GT3 '11": {
+        "drive": "FR",
+        "baseAero": [
+          200,
+          550
+        ],
+        "heightRange": [
+          50,
+          100
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 480,
+        "baseWeight": 1280,
+        "baseTorque": 408,
+        "gearRatios": [
+          3.307,
+          2.269,
+          1.645,
+          1.257,
+          1.0,
+          0.838
+        ],
+        "finalGear": 3.73
+      }
+    },
+    "Subaru": {
+      "WRX STI Type S '14": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          95,
+          160
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 308,
+        "baseWeight": 1490,
+        "baseTorque": 290,
+        "gearRatios": [
+          3.636,
+          2.375,
+          1.761,
+          1.346,
+          1.062,
+          0.842
+        ],
+        "finalGear": 3.9
+      },
+      "BRZ S '15": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 200,
+        "baseWeight": 1239,
+        "baseTorque": 151,
+        "gearRatios": [
+          3.626,
+          2.188,
+          1.541,
+          1.213,
+          1.0,
+          0.767
+        ],
+        "finalGear": 4.3
+      },
+      "Impreza 22B-STi Version '98": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          95,
+          160
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 280,
+        "baseWeight": 1270,
+        "baseTorque": 268,
+        "gearRatios": [
+          3.166,
+          1.882,
+          1.296,
+          0.972,
+          0.738
+        ],
+        "finalGear": 3.9
+      }
+    },
+    "McLaren": {
+      "F1 GTR - BMW '97": {
+        "drive": "MR",
+        "baseAero": [
+          250,
+          650
+        ],
+        "heightRange": [
+          50,
+          95
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 600,
+        "baseWeight": 1000,
+        "baseTorque": 510,
+        "gearRatios": [
+          2.615,
+          1.842,
+          1.407,
+          1.138,
+          0.943,
+          0.8
+        ],
+        "finalGear": 3.11
+      },
+      "MP4-12C '10": {
+        "drive": "MR",
+        "baseAero": [
+          100,
+          320
+        ],
+        "heightRange": [
+          60,
+          115
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 600,
+        "baseWeight": 1434,
+        "baseTorque": 443,
+        "gearRatios": [
+          3.143,
+          2.105,
+          1.565,
+          1.229,
+          1.027,
+          0.884,
+          0.742
+        ],
+        "finalGear": 3.72
+      }
+    },
+    "Audi": {
+      "R8 4.2 FSI R tronic '07": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          200
+        ],
+        "heightRange": [
+          80,
+          135
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 420,
+        "baseWeight": 1560,
+        "baseTorque": 317,
+        "gearRatios": [
+          3.307,
+          2.053,
+          1.481,
+          1.138,
+          0.914,
+          0.757
+        ],
+        "finalGear": 4.06
+      },
+      "TT Coupe 3.2 quattro '03": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 250,
+        "baseWeight": 1450,
+        "baseTorque": 236,
+        "gearRatios": [
+          3.667,
+          2.05,
+          1.4,
+          1.029,
+          0.829,
+          0.686
+        ],
+        "finalGear": 3.65
+      }
+    },
+    "Mercedes-Benz": {
+      "AMG GT S '15": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          220
+        ],
+        "heightRange": [
+          75,
+          130
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 510,
+        "baseWeight": 1645,
+        "baseTorque": 479,
+        "gearRatios": [
+          4.171,
+          2.652,
+          1.842,
+          1.391,
+          1.13,
+          0.952,
+          0.803
+        ],
+        "finalGear": 3.538
+      },
+      "SLS AMG '10": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          200
+        ],
+        "heightRange": [
+          75,
+          130
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 571,
+        "baseWeight": 1620,
+        "baseTorque": 479,
+        "gearRatios": [
+          3.909,
+          2.346,
+          1.556,
+          1.156,
+          0.916,
+          0.742,
+          0.623
+        ],
+        "finalGear": 3.07
+      }
+    },
+    "Chevrolet": {
+      "Corvette C7 Z06 '15": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          250
+        ],
+        "heightRange": [
+          75,
+          130
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 659,
+        "baseWeight": 1634,
+        "baseTorque": 623,
+        "gearRatios": [
+          2.66,
+          1.78,
+          1.3,
+          1.0,
+          0.84,
+          0.69,
+          0.57
+        ],
+        "finalGear": 3.42
+      },
+      "Camaro Z28 '69": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          50
+        ],
+        "heightRange": [
+          100,
+          170
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 290,
+        "baseWeight": 1600,
+        "baseTorque": 407,
+        "gearRatios": [
+          2.52,
+          1.88,
+          1.46,
+          1.0
+        ],
+        "finalGear": 3.73
+      }
+    },
+    "Ford": {
+      "GT '17": {
+        "drive": "MR",
+        "baseAero": [
+          150,
+          400
+        ],
+        "heightRange": [
+          60,
+          110
+        ],
+        "springRange": [
+          1.5,
+          14.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 647,
+        "baseWeight": 1385,
+        "baseTorque": 550,
+        "gearRatios": [
+          3.067,
+          2.0,
+          1.457,
+          1.133,
+          0.914,
+          0.757,
+          0.646
+        ],
+        "finalGear": 3.75
+      },
+      "Mustang GT '15": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          90,
+          150
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 435,
+        "baseWeight": 1705,
+        "baseTorque": 400,
+        "gearRatios": [
+          3.664,
+          2.427,
+          1.815,
+          1.376,
+          1.0,
+          0.794
+        ],
+        "finalGear": 3.55
+      }
+    },
+    "Dodge": {
+      "Viper GTS '02": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          180
+        ],
+        "heightRange": [
+          80,
+          135
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 450,
+        "baseWeight": 1545,
+        "baseTorque": 490,
+        "gearRatios": [
+          2.66,
+          1.78,
+          1.3,
+          1.0,
+          0.74,
+          0.5
+        ],
+        "finalGear": 3.07
+      }
+    },
+    "Volkswagen": {
+      "Golf VII GTI '14": {
+        "drive": "FF",
+        "baseAero": [
+          0,
+          100
+        ],
+        "heightRange": [
+          95,
+          155
+        ],
+        "springRange": [
+          1.0,
+          10.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 230,
+        "baseWeight": 1395,
+        "baseTorque": 258,
+        "gearRatios": [
+          3.778,
+          2.118,
+          1.36,
+          0.969,
+          0.778,
+          0.646
+        ],
+        "finalGear": 3.65
+      }
+    },
+    "Mitsubishi": {
+      "Lancer Evolution Final Edition '15": {
+        "drive": "4WD",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          95,
+          160
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 303,
+        "baseWeight": 1540,
+        "baseTorque": 305,
+        "gearRatios": [
+          3.266,
+          1.956,
+          1.407,
+          1.031,
+          0.815,
+          0.652
+        ],
+        "finalGear": 4.529
+      }
+    },
+    "Alfa Romeo": {
+      "4C '14": {
+        "drive": "MR",
+        "baseAero": [
+          0,
+          150
+        ],
+        "heightRange": [
+          75,
+          130
+        ],
+        "springRange": [
+          1.0,
+          11.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 240,
+        "baseWeight": 1050,
+        "baseTorque": 258,
+        "gearRatios": [
+          3.714,
+          2.238,
+          1.52,
+          1.156,
+          0.971,
+          0.795
+        ],
+        "finalGear": 4.15
+      }
+    },
+    "Aston Martin": {
+      "DB11 '16": {
+        "drive": "FR",
+        "baseAero": [
+          0,
+          200
+        ],
+        "heightRange": [
+          80,
+          135
+        ],
+        "springRange": [
+          1.0,
+          12.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 608,
+        "baseWeight": 1770,
+        "baseTorque": 516,
+        "gearRatios": [
+          4.714,
+          3.143,
+          2.106,
+          1.667,
+          1.285,
+          1.0,
+          0.839,
+          0.667
+        ],
+        "finalGear": 3.15
+      },
+      "Vantage Gr.4": {
+        "drive": "FR",
+        "baseAero": [
+          200,
+          550
+        ],
+        "heightRange": [
+          50,
+          100
+        ],
+        "springRange": [
+          2.0,
+          16.0
+        ],
+        "damperRange": [
+          1,
+          10
+        ],
+        "antiRollRange": [
+          1,
+          7
+        ],
+        "camberRange": [
+          -5.0,
+          0.0
+        ],
+        "toeRange": [
+          -0.6,
+          0.6
+        ],
+        "maxPower": 430,
+        "baseWeight": 1300,
+        "baseTorque": 366,
+        "gearRatios": [
+          3.333,
+          2.286,
+          1.714,
+          1.333,
+          1.071,
+          0.905
+        ],
+        "finalGear": 3.73
+      }
+    }
+  }
+}
