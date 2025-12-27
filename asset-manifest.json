@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gt7-tuning-lab/static/css/main.4b5cce7c.css",
-    "main.js": "/gt7-tuning-lab/static/js/main.c434edcc.js",
+    "main.js": "/gt7-tuning-lab/static/js/main.a66cb5f7.js",
     "index.html": "/gt7-tuning-lab/index.html",
     "main.4b5cce7c.css.map": "/gt7-tuning-lab/static/css/main.4b5cce7c.css.map",
-    "main.c434edcc.js.map": "/gt7-tuning-lab/static/js/main.c434edcc.js.map"
+    "main.a66cb5f7.js.map": "/gt7-tuning-lab/static/js/main.a66cb5f7.js.map"
   },
   "entrypoints": [
     "static/css/main.4b5cce7c.css",
-    "static/js/main.c434edcc.js"
+    "static/js/main.a66cb5f7.js"
   ]
 }
