@@ -1,3 +1,4086 @@
 {
-  "vehicles": {}
+  "vehicles": {
+    "Nissan": {
+      "180SX Type X '96": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fairlady 240ZG (HS30) '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Sileighty '98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R34 GT-R V-spec II Nur '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R33 GT-R V-spec '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fairlady Z 300ZX TT 2seater '89": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R32 GT-R V-spec II '94": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Skyline Hard Top 2000GT-R (KPGC10) '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Silvia Q's (S13) '88": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fairlady Z Version S (Z33) '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SILVIA spec-R Aero (S15) '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fairlady Z (Z34) '08": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Silvia K's Dia Selection (S13) '90": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "NISSAN CONCEPT 2020 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT-R '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT-R Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT-R NISMO '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fairlady Z 432 '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Z Performance '23": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Silvia K's Type S (S14) '94": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Skyline 2000GT-R (KPGC110) '73": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Silvia K's Aero (S14) '96": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT-R NISMO (R32) '90": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Skyline GTS-R (R31) '87": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT-R Premium edition T-spec '24": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Chevrolet": {
+      "Camaro Z28 '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette Stingray (C3) '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette (C2) '63": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette ZR-1 (C4) '89": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette ZR1 (C6) '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette Convertible (C3) '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette C7 '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette Stingray Racer Concept '59": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Camaro SS '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette C7 Gr.3 Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Camaro ZL1 1LE Package '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette C7 ZR1 '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette C8 Stingray '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Corvette (C1) '58": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Chevelle SS 454 Sport Coupé '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Toyota": {
+      "Corolla Levin 1600GT APEX (AE86) '83": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Supra RZ '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MR2 GT-S '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Sprinter Trueno 1600GT APEX (S.Shigeno Version)": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "2000GT '67": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Sprinter Trueno 1600GT APEX (AE86) '83": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Supra 3.0GT Turbo A '88": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Sports 800 '65": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Prius G '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Aqua S '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "FT-1": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "FT-1 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "S-FR '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "86 GT '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "S-FR Racing Concept '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "86 GRMN '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "86 GT 'Limited' '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GR Supra RZ '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Tundra TRD Pro '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Crown Athlete G '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Crown Athlete G Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GR Supra RZ '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GR Yaris RZ 'High performance' '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Celica GT-Four (ST205) '94": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GR86 RZ '21": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Alphard Executive Lounge '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Ambulance Himedic '21": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GR Corolla MORIZO Edition '22": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Hiace Van DX '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Honda": {
+      "S800 '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Beat '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Integra Type R (DC2) '98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R (EK) '98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "NSX Type R '92": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "NSX Type R '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "S2000 '99": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Integra Type R (DC2) '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R (EK) '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R (EK) Touring Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Honda Sports VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "2&4 powered by RC213V": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R (FK2) '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "NSX '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "S660 '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Fit Hybrid '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R Limited Edition (FK8) '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RA272 '65": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic Type R (FL5) '22": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Civic SiR-II (EG) '93": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Daihatsu": {
+      "Copen '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "COPEN RJ VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Renault": {
+      "R5 Turbo '80": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Clio V6 24V '00": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R8 Gordini '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Megane R.S. Trophy '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R.S.01 '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Clio R.S. 220 Trophy '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Clio R.S. 220 Trophy '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Megane R.S. Trophy Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R4 GTL '85": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "TVR": {
+      "Tuscan Speed 6 '00": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Mazda": {
+      "Eunos Roadster (NA) '89": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RX-7 Spirit R Type A (FD) '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RX-7 GT-X (FC) '90": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Roadster Touring Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RX500 '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "LM55 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Roadster S (ND) '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Atenza Sedan XD L Package '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Atenza Gr.3 Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Demio XD Touring '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RX-8 Spirit R '12": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RX-VISION '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Roadster NR-A (ND) '22": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mazda3 '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Mitsubishi": {
+      "Lancer Evolution V GSR '98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution IV GSR '96": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution VI GSR T.M. SCP '99": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Concept XR-PHEV EVOLUTION VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution Final '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution Final Gr.B Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GTO Twin Turbo '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution III GSR '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution IX MR GSR '06": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lancer Evolution VIII MR GSR '04": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Shelby": {
+      "Cobra 427 '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "G.T.350 '65": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Cobra Daytona Coupe '64": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Subaru": {
+      "Impreza Coupe WRX Type R STi Ver.VI '99": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Impreza 22B-STi '98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "VIZIV GT VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "WRX STI Type S '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "WRX STI Isle of Man '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "WRX Gr.B Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "BRZ Drift Car '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "BRZ S '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "BRZ STI Sport '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "BRZ S '21": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Impreza Sedan WRX STi '04": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Mercedes-Benz": {
+      "300 SL Coupe '54": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SLR McLaren '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "S Barker Tourer '29": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "300 SL (W194) '52": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "190 E 2.5-16 Evolution II '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "W 196 R '55": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Lancia": {
+      "Stratos '73": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Delta HF Integrale Evoluzione '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Plymouth": {
+      "Superbird '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "XNR Ghia Roadster '60": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Audi": {
+      "TT Coupe 3.2 quattro '03": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R8 4.2 '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "TTS Coupe '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Audi e-tron VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "TTS Coupe '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "R8 Coupé V10 plus '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "DMC": {
+      "DeLorean S2 '04": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Chaparral": {
+      "2J '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Chaparral 2X VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "MINI": {
+      "MINI Cooper S '05": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MINI Clubman VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mini-Cooper 'S' '65": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Dodge": {
+      "Viper GTS '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Viper SRT10 Coupe '06": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Challenger R/T '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Viper GTS '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SRT Tomahawk X VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SRT Tomahawk GTS-R VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SRT Tomahawk S VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Charger SRT Hellcat '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Super Bee '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Charger SRT Hellcat Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Challenger SRT Demon '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Charger R/T 426 Hemi '68": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Ferrari": {
+      "F430 '06": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F40 '92": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "512 BB '76": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Enzo Ferrari '02": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "458 Italia '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "330 P4 '67": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Dino 246 GT '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "250 GT Berlinetta passo corto '61": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "250 GTO '62": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "500 Mondial Pinin Farina Coupe '54": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GTO '84": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "365 GTB4 '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "LaFerrari '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F12berlinetta '12": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F50 '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "FXX K '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Testarossa '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "308 GTB '75": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F8 Tributo '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Ferrari Vision Gran Turismo": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "430 Scuderia '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Suzuki": {
+      "Swift Sport '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Swift Sport '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Cappuccino (EA11R) '91": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Suzuki Vision Gran Turismo": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "V6 Escudo Pikes Peak Special spec.98": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Jimny XC '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Jimny Sierra JC '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "BMW": {
+      "M3 '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Z8 '01": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M4 '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "BMW VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M4 Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "i3 '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M3 Sport Evolution '89": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M3 '03": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "3.0 CSL '73": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M3 '89": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "3.0 CSL '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M2 Competition '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "M3 '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Ford": {
+      "Ford GT '06": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mark IV Race Car '67": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mustang Mach 1 '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GT40 Mark I '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mustang GT '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Focus ST '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mustang Gr.3 Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F-150 SVT Raptor '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Shelby GT350R '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Ford GT '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Focus RS '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mustang Boss 429 '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "1932 Ford Roadster Hot Rod": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Sierra RS 500 Cosworth '87": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Escort RS Cosworth '92": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "RE Amemiya": {
+      "RE Amemiya FD3S RX-7": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Amuse": {
+      "Amuse S2000 GT1 Turbo": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Amuse NISMO 380RS Super Leggera": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Lamborghini": {
+      "Countach 25th Anniversary '88": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Countach LP400 '74": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Murcielago LP 640 '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Miura P400 Bertone Prototype '67": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Aventador LP 700-4 '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Diablo GT '00": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Veneno '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Huracan LP 610-4 '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Aventador LP 750-4 SV '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Lambo V12 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Urus '18": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Gallardo LP 560-4 '08": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "AMG": {
+      "SLS AMG '10": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-Benz AMG VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-Benz AMG VGT Racing Series": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-AMG GT S '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "A 45 AMG '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-AMG GT Safety Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "300 SEL 6.8 AMG '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-AMG GT R '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-AMG C 63 S '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mercedes-AMG GT Black Series '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Fiat": {
+      "500 F '68": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "500 1.2 8V Lounge SS '08": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Pagani": {
+      "Zonda R '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Huayra '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Maserati": {
+      "GranTurismo S '08": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "A6GCS/53 Spyder '54": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Merak SS '80": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MC20 '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "McLaren": {
+      "McLaren F1 '94": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MP4-12C '10": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "650S '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "McLaren VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "McLaren P1 GTR '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MP4/4 '88": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Jaguar": {
+      "XJ13 '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F-type R '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "E-type Coupe '61": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "D-type '54": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Jaguar VGT Coupe": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Jaguar VGT SV": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Jaguar VGT Roadster": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "XJ220 '92": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Alfa Romeo": {
+      "8C Competizione '08": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GIULIA TZ2 carrozzata da ZAGATO '65": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "MiTo '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "4C '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "4C Gr.3 Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "8C 2900B Touring Berlinetta '38": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Giulia GTAm '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Giulia Sprint GT Veloce '67": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Citroen": {
+      "GT by Citroen Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "DS 21 Pallas '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Volkswagen": {
+      "Sambabus Typ 2 '62": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Scirocco R '10": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Volkswagen 1200 '66": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GTI Roadster VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GTI Supersport VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Golf VII GTI '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Polo GTI '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Golf I GTI '83": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "ID.R '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Alpine": {
+      "A110 '72": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Alpine VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Alpine VGT Race": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "A110 '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "A220 Race Car '68": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Tesla": {
+      "Model S Signature Performance '12": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Model 3 Performance '23": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Aston Martin": {
+      "One-77 '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "DP-100 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "V8 Vantage S '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Vulcan '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "DB11 '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "DB3S '53": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "DB5 '64": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Valkyrie '21": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "KTM": {
+      "X-BOW R '12": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Abarth": {
+      "1500 Biposto Bertone B.A.T 1 '52": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Abarth 500 '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Abarth 595 SS '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Pontiac": {
+      "Firebird Trans Am '78": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "GTO 'The Judge' '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Bugatti": {
+      "Veyron 16.4 '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Bugatti VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Chiron '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Hyundai": {
+      "Genesis Coupe 3.8 '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "HYUNDAI N 2025 VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Gran Turismo": {
+      "Racing Kart 125 Shifter": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Red Bull X2014 Standard": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Red Bull X2014 Junior": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "F1500T-A": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Red Bull X2019 Competition": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Red Bull X2019 25th Anniversary": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Peugeot": {
+      "PEUGEOT VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RCZ GT Line '15": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "208 GTi by Peugeot Sport '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RCZ Gr.3 Road Car": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "L500R HYbrid VGT 2017": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Infiniti": {
+      "INFINITI CONCEPT VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Zagato": {
+      "IsoRivolta Zagato VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Lexus": {
+      "LF-LC GT VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RC F '14": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "LC500 '17": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "LFA '10": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "DS AUTOMOBILES": {
+      "DS 3 Racing '11": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Porsche": {
+      "911 GT3 RS (991) '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 GT3 (996) '01": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 GT3 (997) '09": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "356 A/1500 GS GT Carrera Speedster '56": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "356 A/1500 GS Carrera '56": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Turbo (930) '81": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Taycan Turbo S '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Carrera GT '04": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 GT1 Strassenversion '97": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Carrera RS CS (993) '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "917K '70": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Carrera RS (964) '92": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Carrera RS (993) '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Spyder type 550/1500RS '55": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "917 LIVING LEGEND": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Porsche VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "918 Spyder '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Cayman GT4 '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Porsche VGT Spyder": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Carrera RS (901) '73": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Carrera GTS (904) '64": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "959 '87": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 GT3 RS (992) '22": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "911 Turbo S (992) '20": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mission X '23": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Chris Holstrom Concepts": {
+      "CHC 1967 Chevy Nova": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "De Tomaso": {
+      "Pantera '71": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mangusta '69": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Mangusta (Christian Dior)": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Eckert's Rod & Custom": {
+      "Mach Forty": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Greddy": {
+      "Greddy Fugu Z": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Radical": {
+      "SR3 SL '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Super Formula (Dallara)": {
+      "SF19 Super Formula / Toyota '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SF19 Super Formula / Honda '19": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SF23 Super Formula / Honda '23": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "SF23 Super Formula / Toyota '23": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "RUF": {
+      "CTR3 '07": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "RGT 4.2 '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "BAC": {
+      "Mono '16": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Wicked Fabrication": {
+      "Wicked Fabrication GT 51": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Jeep": {
+      "Willys MB '45": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Autobianchi": {
+      "A112 Abarth '85": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Genesis": {
+      "G70 3.3T AWD Prestige Package '22": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Genesis X Gran Berlinetta VGT Concept": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Roadster Shop": {
+      "Roadster Shop Rampage": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Italdesign": {
+      "Italdesign VGT Street Mode": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "Italdesign VGT Off-road Mode": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Greening Auto Company": {
+      "Maverick": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Garage RCR": {
+      "Civic": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "NISMO": {
+      "400R '95": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "BVLGARI": {
+      "BVLGARI Aluminium VGT": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Skoda": {
+      "SKODA Vision Gran Turismo": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "AFEELA": {
+      "AFEELA Prototype 2024": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    },
+    "Volvo": {
+      "V40 T5 R-Design '13": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      },
+      "240 SE Estate '93": {
+        "category": "Road Car",
+        "drive": "FR",
+        "maxPower": 450,
+        "baseWeight": 1300,
+        "heightRange": [
+          85,
+          160
+        ]
+      }
+    }
+  }
 }
